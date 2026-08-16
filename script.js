@@ -22,7 +22,7 @@ const STORE = {
   // Logo affiché dans l'en-tête (facultatif). Laisser vide "" pour n'afficher
   // que le nom de la boutique. Exemple : "logo.png" (fichier placé à la racine
   // du repo, à côté d'index.html) ou une URL complète "https://...".
-  logoUrl: "logokiioralabs.jpg",
+  logoUrl: "logokiioralabs.png",
 
   // Prix unitaire pré-rempli par défaut (le client peut le modifier au besoin,
   // utile si les prix varient selon les commandes reçues sur TikTok)
