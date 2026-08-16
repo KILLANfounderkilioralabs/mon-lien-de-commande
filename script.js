@@ -11,10 +11,10 @@
 
 const STORE = {
   name: "kilioralabs",
-  tagline: "Livraison rapide • Paiement à la livraison",
+  tagline: "Livraison rapide - Paiement à la livraison - dépôt de validation ",
 
   // Numéro WhatsApp du vendeur — format international SANS "+" ni espaces
-  whatsapp: "2250700000000",
+  whatsapp: "2250508731308",
 
   currency: "FCFA",
   primaryColor: "#16a34a",
@@ -22,11 +22,11 @@ const STORE = {
   // Logo affiché dans l'en-tête (facultatif). Laisser vide "" pour n'afficher
   // que le nom de la boutique. Exemple : "logo.png" (fichier placé à la racine
   // du repo, à côté d'index.html) ou une URL complète "https://...".
-  logoUrl: "",
+  logoUrl: "logokiioralabs",
 
   // Prix unitaire pré-rempli par défaut (le client peut le modifier au besoin,
   // utile si les prix varient selon les commandes reçues sur TikTok)
-  defaultUnitPrice: 15000,
+  defaultUnitPrice: 5000,
 
   // Texte affiché uniquement si le client choisit "Dépôt pour validation".
   // Personnalise ce texte avec tes coordonnées de paiement (numéro Wave,
